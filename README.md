@@ -1,1 +1,3 @@
-# Atividade-3-PLN
+# Atividade 3 - Processamento de Linguagem Natural
+
+Tutorial sobre a Telegram Bot API.
