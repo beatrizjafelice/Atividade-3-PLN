@@ -1,3 +1,20 @@
-# Atividade 3 - Processamento de Linguagem Natural
+# PLN - Tutorial Telegram API
 
-Tutorial sobre a Telegram Bot API.
+Esta atividade é um tutorial sobre a Telegram Bot API, com o seguinte passo a passo:
+* Criação do bot pelo Telegram;
+* Configuração e autenticação;
+* Utilização básica;
+* Integração com Google Colab;
+* Implementação de métodos e funcionalidades no bot.
+
+Site oficial: https://core.telegram.org/
+
+Link para a documentação oficial: https://core.telegram.org/bots/api
+
+Esta atividade foi desenvolvida durante a disciplina de Processamento de Linguagem Natural no 3º quadrimestre de 2023.
+
+**Docente:** Prof. Dr. Alexandre Donizeti Alves <br>
+
+**Resolução desenvolvida por:**
+* Beatriz Fanuele Jafelice
+* Letícia Matias de Araujo
